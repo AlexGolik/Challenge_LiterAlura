@@ -1,8 +1,9 @@
 # Descripción del Proyecto
 Este proyecto es una aplicación basada en Java que utiliza Spring Boot y Maven. Se conecta a una base de datos PostgreSQL e integra una API externa.
 
-![logro de challenge](https://github.com/AlexGolik/Challenge_LiterAlura/blob/8a75635b67c293acb9b7df0a77807ab46fd84153/src/main/resources/static/badge%20literalura.png)
-
+<p align="center">
+  <img src="src/main/resources/static/badge_literalura.png" alt="Descripción del Proyecto">
+</p>
 
 
 ## Documentación
