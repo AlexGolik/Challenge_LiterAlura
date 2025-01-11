@@ -3,7 +3,7 @@
 # Descripción del Proyecto
 Este proyecto es una aplicación basada en Java que utiliza Spring Boot y Maven. Se conecta a una base de datos PostgreSQL e integra una API externa.
 
-![Descripción del Proyecto](literalura.png)
+![Descripción del Proyecto](src/main/resources/static/badge_literalura.png)
 
 
 ## Documentación
