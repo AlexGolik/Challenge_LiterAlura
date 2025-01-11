@@ -1,5 +1,3 @@
-```markdown
-
 # Descripción del Proyecto
 Este proyecto es una aplicación basada en Java que utiliza Spring Boot y Maven. Se conecta a una base de datos PostgreSQL e integra una API externa.
 
@@ -27,6 +25,7 @@ La configuración de la aplicación se gestiona a través del archivo `applicati
 
 ## Construcción y Ejecución
 Para construir y ejecutar el proyecto, use los siguientes comandos de Maven:
+
 ```sh
 mvn clean install
 mvn spring-boot:run
